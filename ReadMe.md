@@ -1,5 +1,8 @@
+K-means Clustering
+------------------
+
 K-means algorithm is an unsupervised clustering algorithm that classifies the input data points into multiple classes based on their inherent distance from each other. The algorithm assumes that the data features form a vector space and tries to find natural clustering in them.
--------------------------------------
+
 1.Segmentation via K-means Clustering
 -------------------------------------
 
